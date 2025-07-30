@@ -16,5 +16,4 @@
 [tired]
 [shouting]
 [trembling]
-[robotically]
 [amazed] 
